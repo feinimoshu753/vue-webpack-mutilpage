@@ -1,2 +1,1 @@
-# vue-webpack-mutilpage
-vue-webpack-mutilpage
+multipage vue test
