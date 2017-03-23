@@ -1,1 +1,1 @@
-multipage vue test
+vue+webpack+thinkphp多页应用
