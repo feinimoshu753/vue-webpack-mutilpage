@@ -1,6 +1,6 @@
 var path = require('path')
 var utils = require('./utils')
-var glob = require('glob');
+var glob = require('glob')
 var webpack = require('webpack')
 var config = require('../config')
 var merge = require('webpack-merge')

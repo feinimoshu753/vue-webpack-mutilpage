@@ -80,7 +80,7 @@ let webpackConfig = {
     //   minChunks: chunks.length
     // }),
     // 配置提取出的样式文件
-    new ExtractTextPlugin('css/[name].css')
+    // new ExtractTextPlugin('css/[name].css')
   ]
 }
 
